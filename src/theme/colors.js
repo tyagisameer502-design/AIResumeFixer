@@ -8,6 +8,7 @@ export const lightColors = {
   mutedText: "#6B7280",
   placeholder: "#9CA3AF",
 
+  
   // Brand
   primary: "#4F46E5",
 
